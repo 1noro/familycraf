@@ -5,7 +5,7 @@ ainsleys world/
 Ainsley's World/
 logs/
 world/
-*world/
+#*world/
 
 # files
 ops.json
